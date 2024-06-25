@@ -41,5 +41,5 @@ The design for this project is available on Figma. You can view it [here.](https
 <h3 align='center'>Home Page</h3>
 
 <div align='center'>
-<img src='https://github.com/imsanthosh7/Real-Estate-Website/assets/154437536/e71e0fa7-0656-4bf2-8e61-bebe8220d1b2'/>
+<img src='https://github.com/imsanthosh7/Real-Estate-Website/assets/154437536/05dcb4f7-2223-4913-9abd-88ef5ee3a646'/>
 </div>
