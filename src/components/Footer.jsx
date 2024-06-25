@@ -91,9 +91,9 @@ const Footer = () => {
                     <h1 className='bg-gray1 md:p-2 p-4  md:text-[18px] text-2xl rounded-full text-white hover:bg-Purple1 hover:-translate-y-2 duration-300 cursor-pointer '><FaYoutube /></h1>
 
                 </div>
-                <div className='flex md:flex-row flex-col gap-3 text-white text-sm text-center my-6'>
-                    <h1 className='text-[13px] md:text-sm'>@2024 Estatein. All Rights Reserved.</h1>
-                    <p className='text-[13px] md:text-sm'>Terms & Conditions</p>
+                <div className='flex md:flex-row flex-col gap-3 md:w-auto w-56 text-white text-sm text-center my-6'>
+                    <h1 className='text-sm'>@2024 Estatein. All Rights Reserved.</h1>
+                    <p className='text-sm'>Terms & Conditions</p>
                 </div>
             </div>
         </>
