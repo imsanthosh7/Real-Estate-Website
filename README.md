@@ -1,6 +1,6 @@
 <div align='center'><img style="width:30%" src='https://github.com/imsanthosh7/Real-Estate-Website/assets/154437536/d9e6e612-a62d-440f-91ba-18ebf9f74984'/></div>
 
-# EstateIn🏬
+# EstateIn 🏬
 **Live Demo:** [Link](https://estatein-real-estate.vercel.app/) <br>
 
 EstateIn is a real estate website designed using React.js, Vite, and Tailwind CSS. This project focuses on the frontend design, providing a sleek and modern interface for users to explore real estate listings. The website features a responsive design and includes a dark theme for a better user experience.
