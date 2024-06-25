@@ -1,0 +1,17 @@
+.footer-links h1{
+    color:#999999;
+    margin-bottom: 10px;
+}
+.footer-links ul li{
+    color: white;
+    font-size: small;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.footer-links ul li:hover{
+    /* transform: translateX(4px); */
+    transition: 0.3s;
+    color:#999999;
+    
+    
+}

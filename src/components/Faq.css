@@ -1,0 +1,24 @@
+.explore-container{
+    background-image: url(../../src/assets/Abstract\ Design\ left.png), url(../../src/assets/Abstract\ Design\ right.png);
+    background-position:left, right;
+    background-size: 400px 300px,600px 500px;
+   
+    background-repeat: no-repeat;
+    
+  }
+
+  @media screen and (max-width:767px) {
+    .explore-container{
+        background-image: url(../../src/assets/Abstract\ Design\ smalldevice\ left.png), url(../../src/assets/Abstract\ Design\ smalldevice\ right.png);
+        /* background-position:left top, right bottom; */
+        background-position:left top, right bottom;
+        background-size: 200px 200px,200px 200px;
+       
+       
+        
+      
+        
+    }
+
+    
+  }
