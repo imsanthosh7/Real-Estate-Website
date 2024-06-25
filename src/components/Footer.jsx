@@ -23,7 +23,7 @@ const Footer = () => {
                                 <img className='w-3' src={messsageicon} alt="" />
                             </div>
                             <div>
-                                <input className='bg-gray1 outline-none border-none text-sm text-white md:w-52 w-[280px]' type="text" placeholder='Enter your Email' />
+                                <input className='bg-gray1 outline-none border-none text-sm text-white w-[270px]  md:w-[280px]' type="text" placeholder='Enter your Email' />
                             </div>
                             <div className=''>
                                 <img className='w-6 cursor-pointer' src={sendicon} alt="" />
@@ -92,8 +92,8 @@ const Footer = () => {
 
                 </div>
                 <div className='flex md:flex-row flex-col gap-3 text-white text-sm text-center my-6'>
-                    <h1>@2024 Estatein. All Rights Reserved.</h1>
-                    <p>Terms & Conditions</p>
+                    <h1 className='text-[13px] md:text-sm'>@2024 Estatein. All Rights Reserved.</h1>
+                    <p className='text-[13px] md:text-sm'>Terms & Conditions</p>
                 </div>
             </div>
         </>
