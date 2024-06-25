@@ -32,7 +32,7 @@ const Footer = () => {
                     </div>
 
                     {/* footerlinks */}
-                    <div className='grid md:grid-flow-col grid-flow-row  grid-cols-2 md:gap-16 gap-5 ml-7 my-3 footer-links '>
+                    <div className='grid md:grid-flow-col grid-flow-row  grid-cols-2 md:gap-19 gap-5 ml-7 my-3 footer-links '>
                         <div className=''>
                             <h1>Home</h1>
                             <ul className=''>
