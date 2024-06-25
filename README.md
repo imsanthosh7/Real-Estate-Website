@@ -1,4 +1,4 @@
-<div align='center'><img style="width:27%" src='https://github.com/imsanthosh7/Real-Estate-Website/assets/154437536/d9e6e612-a62d-440f-91ba-18ebf9f74984'/></div>
+<div align='center'><img style="width:30%" src='https://github.com/imsanthosh7/Real-Estate-Website/assets/154437536/d9e6e612-a62d-440f-91ba-18ebf9f74984'/></div>
 
 # EstateIn🏬
 **Live Demo:** [Link](https://estatein-real-estate.vercel.app/) <br>
