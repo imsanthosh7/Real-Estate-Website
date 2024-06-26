@@ -13,14 +13,20 @@ EstateIn offers a responsive and user-friendly interface for browsing real estat
 
 To get started with the project, follow these steps:
 
-1) Clone the repository:
-`git clone https://github.com/yourusername/estatein.git`
+1) Clone the repository: `git clone https://github.com/yourusername/estatein.git`
 
-2) Navigate to the project directory: `cd estatein`
-
-3) Install the dependencies: `npm install`
-
-4) Start the development server: `npm run dev`
+2) Navigate to the project directory: 
+     ```bash
+   cd estatein
+     ```
+4) Install the dependencies: 
+   ```bash
+   npm install
+   ```
+6) Start the development server: 
+   ```bash
+   npm run dev
+   ```
 ## Usage
 
 To use the website, open your browser and go to `http://localhost:3000`. You will be able to browse through the real estate listings and explore the various features of the site.
