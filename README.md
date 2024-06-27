@@ -42,7 +42,7 @@ To use the website, open your browser and go to `http://localhost:3000`. You wil
 The design for this project is available on Figma. You can view it [here.](https://www.figma.com/design/SJDjyJqp2V0MmyPTDcUrMH/Real-Estate-Business-Website-UI-Template---Dark-Theme-%7C-Produce-UI-(Community)?node-id=45-2&t=5pwzDU6cFGScTCro-1)
 
 
-<h2>Screenshots of the Project 📸</h2>
+<h3>Screenshots of the Project 📸</h3>
 <br>
 <h3 align='center'>Home Page</h3>
 
