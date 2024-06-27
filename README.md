@@ -45,7 +45,6 @@ The design for this project is available on Figma. You can view it [here.](https
 <h3>Screenshots of the Project 📸</h3>
 <br>
 <h3 align='center'>Home Page</h3>
-
 <div align='center'>
 <img src='https://github.com/imsanthosh7/Real-Estate-Website/assets/154437536/05dcb4f7-2223-4913-9abd-88ef5ee3a646'/>
 </div>
