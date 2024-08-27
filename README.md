@@ -13,7 +13,7 @@ EstateIn offers a responsive and user-friendly interface for browsing real estat
 
 To get started with the project, follow these steps:
 
-1) Clone the repository: `git clone https://github.com/yourusername/estatein.git`
+1) Clone the repository: `https://github.com/imsanthosh7/Real-Estate-Website.git`
 
 2) Navigate to the project directory: 
      ```bash
